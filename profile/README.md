@@ -4,7 +4,7 @@
 ## Connect & Grow: Unlock Your Potential with Ken
 Ken is a platform connecting youth with organizations through opportunities, events, education, mentorship... We empower young talent to reach their full potential while helping organizations discover the next generation of leaders and innovators.
 
-## 🚀 About Ken
+## About Ken
 ### Our Mission
 Empower youth to reach their full potential by providing access to opportunities and educational resources while helping organizations connect with a wide audience of young talents.
 
