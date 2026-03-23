@@ -16,4 +16,4 @@ To be the leading platform for youth development through structured learning, me
 - **Connecting Communities**: We bridge the gap between talented students and organizations looking to support and discover the next generation of leaders and innovators.
 - **Unlock Potential**: Through mentorship and guidance, we help students discover and develop their unique talents and career paths in a supportive environment.
 ---
-© 2025 Civica. All rights reserved.
+© 2026 Civica. All rights reserved.
