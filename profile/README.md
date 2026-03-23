@@ -1,10 +1,10 @@
-# Ken Platform
-<img src="https://res.cloudinary.com/dghbzamnp/image/upload/v1747832428/KEN_LOGO_NG_loedai.png" alt="Ken Logo" width="150">
+# Civica Platform
+<img src="https://res.cloudinary.com/dghbzamnp/image/upload/v1774132405/LOGO_-_Civica.ma-04_gvxzdo.png" alt="Civica Logo" width="150">
 
-## Connect & Grow: Unlock Your Potential with Ken
-Ken is a platform connecting youth with organizations through opportunities, events, education, mentorship... We empower young talent to reach their full potential while helping organizations discover the next generation of leaders and innovators.
+## Connect & Grow: Unlock Your Potential with Civica
+Civica is a platform connecting youth with organizations through opportunities, events, education, mentorship... We empower young talent to reach their full potential while helping organizations discover the next generation of leaders and innovators.
 
-## About Ken
+## About Civica
 ### Our Mission
 Empower youth to reach their full potential by providing access to opportunities and educational resources while helping organizations connect with a wide audience of young talents.
 
@@ -16,4 +16,4 @@ To be the leading platform for youth development through structured learning, me
 - **Connecting Communities**: We bridge the gap between talented students and organizations looking to support and discover the next generation of leaders and innovators.
 - **Unlock Potential**: Through mentorship and guidance, we help students discover and develop their unique talents and career paths in a supportive environment.
 ---
-© 2025 Ken. All rights reserved.
+© 2025 Civica. All rights reserved.
