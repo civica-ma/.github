@@ -1,5 +1,5 @@
 # Civica Platform
-<img src="https://res.cloudinary.com/dghbzamnp/image/upload/v1774132405/LOGO_-_Civica.ma-04_gvxzdo.png" alt="Civica Logo" width="150">
+<img src="https://www.civica.ma/logo.png" alt="Civica Logo" width="150">
 
 ## Connect & Grow: Unlock Your Potential with Civica
 Civica is a platform connecting youth with organizations through opportunities, events, education, mentorship... We empower young talent to reach their full potential while helping organizations discover the next generation of leaders and innovators.
